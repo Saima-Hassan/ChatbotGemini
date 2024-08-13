@@ -2,3 +2,4 @@
 langchain
 huggingface_hub
 langchain_community
+google-generativeai
